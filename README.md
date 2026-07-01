@@ -43,13 +43,21 @@ Open to collaboration and continuous learning
 
 ---
 
-## GitHub Statistics
+## GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sweta113Sharma&show_icons=true&theme=tokyonight&hide_border=true)
+### 📊 My GitHub Journey
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sweta113Sharma&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sweta113Sharma&show_icons=true&theme=radical&hide_border=false&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&hide=contribs)
+
+### 💻 Language Mastery
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sweta113Sharma&layout=donut-vertical&theme=radical&hide_border=false&bg_color=0d1117&text_color=c9d1d9)
+
+### 🔥 Contribution Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sweta113Sharma&theme=radical&hide_border=false&background=0d1117&ring=58a6ff&fire=58a6ff&stroke=c9d1d9)
 
 </div>
 
@@ -79,6 +87,16 @@ Open to collaboration and continuous learning
 
 ## Connect With Me
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/swetasharmaa)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Sweta113Sharma)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:sweta.dollysharma@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <p><i>Building amazing projects, one line of code at a time!</i></p>
+</div>
