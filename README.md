@@ -1,11 +1,7 @@
 # Sweta Sharma
 
 <div align="center">
-  <svg width="100%" height="120" viewBox="0 0 800 120" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 8px;">
-    <text x="400" y="70" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="white" text-anchor="middle">
-      Full Stack Developer & AI Enthusiast
-    </text>
-  </svg>
+  <h2>Full Stack Developer & AI Enthusiast</h2>
 </div>
 
 ---
@@ -39,56 +35,11 @@ Open to collaboration and continuous learning
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>StudyNest</h3>
-      <p>AI-Powered Syllabus Manager and Study Tracker for University Students</p>
-      <p><strong>Stack:</strong> React 18 • Vite • Tailwind CSS • OpenRouter API</p>
-      <p><a href="https://github.com/Sweta113Sharma/studynest">View Project →</a></p>
-    </td>
-    <td width="50%">
-      <svg width="100%" height="200" viewBox="0 0 300 200" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 8px;">
-        <rect x="20" y="20" width="260" height="160" fill="rgba(255,255,255,0.1)" rx="8"/>
-        <text x="150" y="120" font-family="Arial" font-size="14" fill="white" text-anchor="middle">
-          AI Study Companion
-        </text>
-      </svg>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <svg width="100%" height="200" viewBox="0 0 300 200" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 8px;">
-        <rect x="20" y="20" width="260" height="160" fill="rgba(255,255,255,0.1)" rx="8"/>
-        <text x="150" y="120" font-family="Arial" font-size="14" fill="white" text-anchor="middle">
-          Smart Matchmaking
-        </text>
-      </svg>
-    </td>
-    <td width="50%">
-      <h3>ProjectMatch</h3>
-      <p>Tinder-style Platform for Finding Project Collaborators and Teammates</p>
-      <p><strong>Stack:</strong> TypeScript • HTML5 • CSS3 • Netlify Functions</p>
-      <p><a href="https://github.com/Sweta113Sharma/projec-tmatch">View Project →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>CodeAlpha Chatbot</h3>
-      <p>AI-Powered Customer Support Assistant with Premium UI Design</p>
-      <p><strong>Stack:</strong> Flask • SQLite • JavaScript • Web Speech API</p>
-      <p><a href="https://github.com/Sweta113Sharma/CodeAlpha_Chatbot">View Project →</a></p>
-    </td>
-    <td width="50%">
-      <svg width="100%" height="200" viewBox="0 0 300 200" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 8px;">
-        <rect x="20" y="20" width="260" height="160" fill="rgba(255,255,255,0.1)" rx="8"/>
-        <text x="150" y="120" font-family="Arial" font-size="14" fill="white" text-anchor="middle">
-          Smart Chatbot
-        </text>
-      </svg>
-    </td>
-  </tr>
-</table>
+| | |
+|---|---|
+| **StudyNest** - AI-Powered Syllabus Manager and Study Tracker for University Students | [View Project →](https://github.com/Sweta113Sharma/studynest) |
+| **ProjectMatch** - Tinder-style Platform for Finding Project Collaborators and Teammates | [View Project →](https://github.com/Sweta113Sharma/projec-tmatch) |
+| **CodeAlpha Chatbot** - AI-Powered Customer Support Assistant | [View Project →](https://github.com/Sweta113Sharma/CodeAlpha_Chatbot) |
 
 ---
 
@@ -106,89 +57,28 @@ Open to collaboration and continuous learning
 
 ## Skills & Expertise
 
-<table>
-  <tr>
-    <td>
-      <h4>Frontend Development</h4>
-      <ul>
-        <li>React & React Hooks</li>
-        <li>TypeScript</li>
-        <li>Tailwind CSS</li>
-        <li>Vite</li>
-        <li>Responsive Design</li>
-      </ul>
-    </td>
-    <td>
-      <h4>Backend Development</h4>
-      <ul>
-        <li>Flask</li>
-        <li>Python</li>
-        <li>SQLite</li>
-        <li>REST APIs</li>
-        <li>Serverless Functions</li>
-      </ul>
-    </td>
-    <td>
-      <h4>AI & Integration</h4>
-      <ul>
-        <li>OpenRouter API</li>
-        <li>LLM Integration</li>
-        <li>Prompt Engineering</li>
-        <li>Web Speech API</li>
-        <li>AI Chatbots</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+**Frontend Development**
+- React & React Hooks
+- TypeScript
+- Tailwind CSS
+- Responsive Design
 
----
+**Backend Development**
+- Flask
+- Python
+- SQLite
+- REST APIs
 
-## Current Focus
-
-<svg width="100%" height="150" viewBox="0 0 800 150" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 8px;">
-  <rect x="20" y="20" width="760" height="110" fill="rgba(255,255,255,0.05)" rx="8"/>
-  <text x="400" y="50" font-family="Arial" font-size="16" font-weight="bold" fill="white" text-anchor="middle">
-    Currently Building
-  </text>
-  <text x="100" y="85" font-family="Arial" font-size="13" fill="white">
-    Advanced React Patterns
-  </text>
-  <text x="100" y="110" font-family="Arial" font-size="13" fill="white">
-    Full-Stack Applications
-  </text>
-  <text x="400" y="85" font-family="Arial" font-size="13" fill="white">
-    AI-Powered Solutions
-  </text>
-  <text x="400" y="110" font-family="Arial" font-size="13" fill="white">
-    Open Source Contributions
-  </text>
-  <text x="650" y="85" font-family="Arial" font-size="13" fill="white">
-    TypeScript Expertise
-  </text>
-  <text x="650" y="110" font-family="Arial" font-size="13" fill="white">
-    Scalable Architectures
-  </text>
-</svg>
+**AI & Integration**
+- OpenRouter API
+- LLM Integration
+- Prompt Engineering
+- AI Chatbots
 
 ---
 
 ## Connect With Me
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/swetasharmaa)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Sweta113Sharma)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:sweta.dollysharma@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox)](https://yourportfolio.com)
-
-</div>
-
----
-
-<div align="center">
-  <svg width="100%" height="80" viewBox="0 0 800 80" style="background: linear-gradient(90deg, #667eea 0%, #764ba2 50%, #f093fb 100%); border-radius: 8px;">
-    <text x="400" y="50" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">
-      Built with precision and passion
-    </text>
-  </svg>
-</div>
