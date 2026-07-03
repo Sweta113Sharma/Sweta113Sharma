@@ -9,7 +9,7 @@
     🚀 Full Stack Developer & AI Architect 🤖
   </h3>
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Transforming+Ideas+Into+Intelligent+Solutions;Code+%7C+Create+%7C+Innovate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Transforming+Ideas+Into+Intelligent+Solutions;Code+%7C+Create+%7C+Innovate">
   </p>
   <p>
     <strong><i>"Building the Future, One Algorithm at a Time"</i></strong>
