@@ -82,7 +82,7 @@ Excited to collaborate and push technological boundaries
 
 <div style="background: linear-gradient(135deg, rgba(255, 105, 180, 0.15) 0%, rgba(255, 20, 147, 0.15) 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #ff69b4;">
 
-**🎨 Frontend Development**
+** Frontend Development**
 - React & React Hooks
 - TypeScript
 - Tailwind CSS
@@ -92,7 +92,7 @@ Excited to collaborate and push technological boundaries
 
 <div style="background: linear-gradient(135deg, rgba(255, 105, 180, 0.15) 0%, rgba(255, 20, 147, 0.15) 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #ff69b4;">
 
-**⚙️ Backend Development**
+** Backend Development**
 - Flask
 - Python
 - SQLite
@@ -102,7 +102,7 @@ Excited to collaborate and push technological boundaries
 
 <div style="background: linear-gradient(135deg, rgba(255, 105, 180, 0.15) 0%, rgba(255, 20, 147, 0.15) 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #ff69b4;">
 
-**🤖 AI & Integration**
+** AI & Integration**
 - OpenRouter API
 - LLM Integration
 - Prompt Engineering
@@ -114,7 +114,7 @@ Excited to collaborate and push technological boundaries
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
