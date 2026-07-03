@@ -1,18 +1,18 @@
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #1a0f1f 0%, #2d1b3d 100%); padding: 20px; border-radius: 10px; border: 2px solid #ff69b4;">
 
-# SWETA SHARMA
+# <span style="color: #ff69b4; text-shadow: 0 0 10px #ff1493;">✨ SWETA SHARMA ✨</span>
 
 </div>
 
-<div align="center">
-  <h3 style="font-family: 'Courier New', monospace; font-weight: bold; letter-spacing: 2px;">
+<div align="center" style="background: linear-gradient(135deg, #1a0f1f 0%, #2d1b3d 100%); padding: 20px; border-radius: 10px; margin: 10px 0;">
+  <h3 style="font-family: 'Courier New', monospace; font-weight: bold; letter-spacing: 2px; color: #ff69b4;">
     🚀 Full Stack Developer & AI Architect 🤖
   </h3>
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Transforming+Ideas+Into+Intelligent+Solutions;Code+%7C+Create+%7C+Innovate">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff69b4&center=true&vCenter=true&width=700&lines=Transforming+Ideas+Into+Intelligent+Solutions;Code+%7C+Create+%7C+Innovate">
   </p>
   <p>
-    <strong><i>"Building the Future, One Algorithm at a Time"</i></strong>
+    <strong><i style="color: #ff1493;">"✨ Building the Future, One Algorithm at a Time ✨"</i></strong>
   </p>
 </div>
 
@@ -20,12 +20,16 @@
 
 ## 🎯 About Me
 
+<div style="background: linear-gradient(135deg, rgba(255, 105, 180, 0.1) 0%, rgba(255, 20, 147, 0.1) 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #ff69b4;">
+
 ```
 🔧 Full Stack Developer | 🤖 AI & ML Enthusiast | 💭 Problem Solver
 ✨ Crafting intelligent, scalable, and user-centric applications
 🌱 Passionate about innovation and continuous growth
 🤝 Excited to collaborate and push technological boundaries
 ```
+
+</div>
 
 ---
 
@@ -48,11 +52,15 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description |
+<div style="background: linear-gradient(135deg, rgba(255, 105, 180, 0.1) 0%, rgba(255, 20, 147, 0.1) 100%); padding: 15px; border-radius: 8px; border: 1px solid #ff69b4;">
+
+| 💖 Project | Description |
 |---------|-------------|
 | **StudyNest** | AI-Powered Syllabus Manager and Study Tracker for University Students | [View →](https://github.com/Sweta113Sharma/studynest) |
 | **ProjectMatch** | Tinder-style Platform for Finding Project Collaborators and Teammates | [View →](https://github.com/Sweta113Sharma/projec-tmatch) |
 | **CodeAlpha Chatbot** | AI-Powered Customer Support Assistant | [View →](https://github.com/Sweta113Sharma/CodeAlpha_Chatbot) |
+
+</div>
 
 ---
 
@@ -62,7 +70,7 @@
 
 ### 📈 My GitHub Journey
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sweta113Sharma&show_icons=true&theme=radical&hide_border=false&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&hide=contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sweta113Sharma&show_icons=true&theme=radical&hide_border=false&bg_color=0d1117&text_color=c9d1d9&icon_color=ff69b4&hide=contribs)
 
 ### 💻 Language Mastery
 
@@ -70,7 +78,7 @@
 
 ### 🔥 Contribution Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sweta113Sharma&theme=radical&hide_border=false&background=0d1117&ring=58a6ff&fire=58a6ff&stroke=c9d1d9)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sweta113Sharma&theme=radical&hide_border=false&background=0d1117&ring=ff69b4&fire=ff69b4&stroke=c9d1d9)
 
 </div>
 
@@ -78,11 +86,19 @@
 
 ## 💪 Skills & Expertise
 
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px;">
+
+<div style="background: linear-gradient(135deg, rgba(255, 105, 180, 0.15) 0%, rgba(255, 20, 147, 0.15) 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #ff69b4;">
+
 **🎨 Frontend Development**
 - React & React Hooks
 - TypeScript
 - Tailwind CSS
 - Responsive Design
+
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(255, 105, 180, 0.15) 0%, rgba(255, 20, 147, 0.15) 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #ff69b4;">
 
 **⚙️ Backend Development**
 - Flask
@@ -90,11 +106,19 @@
 - SQLite
 - REST APIs
 
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(255, 105, 180, 0.15) 0%, rgba(255, 20, 147, 0.15) 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #ff69b4;">
+
 **🤖 AI & Integration**
 - OpenRouter API
 - LLM Integration
 - Prompt Engineering
 - AI Chatbots
+
+</div>
+
+</div>
 
 ---
 
@@ -110,7 +134,7 @@
 
 ---
 
-<div align="center">
-  <h3>🌟 Let's Build Something Extraordinary Together 🌟</h3>
-  <p><i>Where Innovation Meets Execution</i></p>
+<div align="center" style="background: linear-gradient(135deg, #ff69b4 0%, #ff1493 100%); padding: 20px; border-radius: 10px; margin-top: 20px;">
+  <h3 style="color: white; text-shadow: 0 0 15px rgba(0,0,0,0.3);">🌟 Let's Build Something Extraordinary Together 🌟</h3>
+  <p style="color: white; font-size: 16px;"><i>✨ Where Innovation Meets Execution ✨</i></p>
 </div>
