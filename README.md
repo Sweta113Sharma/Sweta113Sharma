@@ -1,22 +1,41 @@
-# Sweta Sharma
+<div align="center">
+
+# ✨ SWETA SHARMA ✨
+
+</div>
 
 <div align="center">
-  <h2>Full Stack Developer & AI Enthusiast</h2>
+  <h3 style="font-family: 'Courier New', monospace; font-weight: bold; letter-spacing: 2px;">
+    🚀 Full Stack Developer & AI Architect 🤖
+  </h3>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Transforming+Ideas+Into+Intelligent+Solutions;Code+%7C+Create+%7C+Innovate" alt="Typing SVG" />
+  </p>
 </div>
 
 ---
 
-## About
+<div align="center">
+  <h2>💡 My Slogan 💡</h2>
+  <p>
+    <strong><i>"Building the Future, One Algorithm at a Time"</i></strong>
+  </p>
+</div>
+
+---
+
+## 🎯 About Me
 
 ```
-Full Stack Developer | AI & ML Enthusiast | Problem Solver
-Passionate about building scalable applications and intelligent solutions
-Open to collaboration and continuous learning
+🔧 Full Stack Developer | 🤖 AI & ML Enthusiast | 💭 Problem Solver
+✨ Crafting intelligent, scalable, and user-centric applications
+🌱 Passionate about innovation and continuous growth
+🤝 Excited to collaborate and push technological boundaries
 ```
 
 ---
 
-## Technology Stack
+## 🛠️ Technology Stack
 
 <div align="center">
 
@@ -33,21 +52,21 @@ Open to collaboration and continuous learning
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-| | |
-|---|---|
-| **StudyNest** - AI-Powered Syllabus Manager and Study Tracker for University Students | [View Project →](https://github.com/Sweta113Sharma/studynest) |
-| **ProjectMatch** - Tinder-style Platform for Finding Project Collaborators and Teammates | [View Project →](https://github.com/Sweta113Sharma/projec-tmatch) |
-| **CodeAlpha Chatbot** - AI-Powered Customer Support Assistant | [View Project →](https://github.com/Sweta113Sharma/CodeAlpha_Chatbot) |
+| Project | Description |
+|---------|-------------|
+| **StudyNest** | AI-Powered Syllabus Manager and Study Tracker for University Students | [View →](https://github.com/Sweta113Sharma/studynest) |
+| **ProjectMatch** | Tinder-style Platform for Finding Project Collaborators and Teammates | [View →](https://github.com/Sweta113Sharma/projec-tmatch) |
+| **CodeAlpha Chatbot** | AI-Powered Customer Support Assistant | [View →](https://github.com/Sweta113Sharma/CodeAlpha_Chatbot) |
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### 📊 My GitHub Journey
+### 📈 My GitHub Journey
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sweta113Sharma&show_icons=true&theme=radical&hide_border=false&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&hide=contribs)
 
@@ -63,21 +82,21 @@ Open to collaboration and continuous learning
 
 ---
 
-## Skills & Expertise
+## 💪 Skills & Expertise
 
-**Frontend Development**
+**🎨 Frontend Development**
 - React & React Hooks
 - TypeScript
 - Tailwind CSS
 - Responsive Design
 
-**Backend Development**
+**⚙️ Backend Development**
 - Flask
 - Python
 - SQLite
 - REST APIs
 
-**AI & Integration**
+**🤖 AI & Integration**
 - OpenRouter API
 - LLM Integration
 - Prompt Engineering
@@ -85,7 +104,7 @@ Open to collaboration and continuous learning
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -98,5 +117,6 @@ Open to collaboration and continuous learning
 ---
 
 <div align="center">
-  <p><i>Building amazing projects, one line of code at a time!</i></p>
+  <h3>🌟 Let's Build Something Extraordinary Together 🌟</h3>
+  <p><i>Where Innovation Meets Execution</i></p>
 </div>
