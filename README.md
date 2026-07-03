@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ SWETA SHARMA ✨
+# SWETA SHARMA
 
 </div>
 
@@ -11,12 +11,6 @@
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Transforming+Ideas+Into+Intelligent+Solutions;Code+%7C+Create+%7C+Innovate" alt="Typing SVG" />
   </p>
-</div>
-
----
-
-<div align="center">
-  <h2>💡 My Slogan 💡</h2>
   <p>
     <strong><i>"Building the Future, One Algorithm at a Time"</i></strong>
   </p>
