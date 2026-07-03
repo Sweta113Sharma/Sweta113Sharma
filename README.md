@@ -6,13 +6,13 @@
 
 <div align="center" style="background: linear-gradient(135deg, #1a0f1f 0%, #2d1b3d 100%); padding: 20px; border-radius: 10px; margin: 10px 0;">
   <h3 style="font-family: 'Courier New', monospace; font-weight: bold; letter-spacing: 2px; color: #ff69b4;">
-    🚀 Full Stack Developer & AI Architect 🤖
+      Full Stack Developer & AI Architect 
   </h3>
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff69b4&center=true&vCenter=true&width=700&lines=Transforming+Ideas+Into+Intelligent+Solutions;Code+%7C+Create+[...]">
   </p>
   <p>
-    <strong><i style="color: #ff1493;">"✨ Building the Future, One Algorithm at a Time ✨"</i></strong>
+    <strong><i style="color: #ff1493;">" Building the Future, One Algorithm at a Time "</i></strong>
   </p>
 </div>
 
@@ -23,17 +23,17 @@
 <div style="background: linear-gradient(135deg, rgba(255, 105, 180, 0.1) 0%, rgba(255, 20, 147, 0.1) 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #ff69b4;">
 
 ```
-🔧 Full Stack Developer | 🤖 AI & ML Enthusiast | 💭 Problem Solver
-✨ Crafting intelligent, scalable, and user-centric applications
-🌱 Passionate about innovation and continuous growth
-🤝 Excited to collaborate and push technological boundaries
+Full Stack Developer | AI & ML Enthusiast | Problem Solver
+Crafting intelligent, scalable, and user-centric applications
+Passionate about innovation and continuous growth
+Excited to collaborate and push technological boundaries
 ```
 
 </div>
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 <div align="center">
 
