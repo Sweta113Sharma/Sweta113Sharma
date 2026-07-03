@@ -64,26 +64,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### 📈 My GitHub Journey
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sweta113Sharma&show_icons=true&theme=radical&hide_border=false&bg_color=0d1117&text_color=c9d1d9&icon_color=ff69b4&hide=contribs[...]
-
-### 💻 Language Mastery
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sweta113Sharma&layout=donut-vertical&theme=radical&hide_border=false&bg_color=0d1117&text_color=c9d1d9)
-
-### 🔥 Contribution Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sweta113Sharma&theme=radical&hide_border=false&background=0d1117&ring=ff69b4&fire=ff69b4&stroke=c9d1d9)
-
-</div>
-
----
-
 ## 💪 Skills & Expertise
 
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px;">
