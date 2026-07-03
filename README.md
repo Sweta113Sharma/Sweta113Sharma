@@ -64,6 +64,18 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 🔥 Contribution Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sweta113Sharma&theme=radical&hide_border=false&background=0d1117&ring=ff69b4&fire=ff69b4&stroke=c9d1d9)
+
+</div>
+
+---
+
 ## 💪 Skills & Expertise
 
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px;">
