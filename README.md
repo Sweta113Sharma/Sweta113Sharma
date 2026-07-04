@@ -1,7 +1,7 @@
 <div align="center" style="background: linear-gradient(135deg, #1a0f1f 0%, #2d1b3d 100%); padding: 20px; border-radius: 10px; border: 2px solid #ff69b4;">
 
 # <span style="color: #ff69b4; text-shadow: 0 0 10px #ff1493;"> 
-✨ SWETA KUMARI ✨
+ SWETA KUMARI 
 </span>
 
 </div>
@@ -14,7 +14,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=ff69b4&center=true&vCenter=true&width=700&lines=Transforming+Ideas+Into+Intelligent+Solutions;Code+%7C+Create+%7C+Innovate;Building+the+Future+with+AI;AI+%7C+ML+%7C+Web+Development" alt="Typing SVG" />
   </p>
   <p>
-    <strong><i style="color: #ff1493;">" 💡 Building the Future, One Algorithm at a Time 💡 "</i></strong>
+    <strong><i style="color: #ff1493;">"  Building the Future, One Algorithm at a Time  "</i></strong>
   </p>
 </div>
 
