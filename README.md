@@ -9,7 +9,7 @@
       Full Stack Developer & AI Architect 
   </h3>
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff69b4&center=true&vCenter=true&width=700&lines=Transforming+Ideas+Into+Intelligent+Solutions;Code+%7C+Create+[...]">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff69b4&center=true&vCenter=true&width=700&lines=Transforming+Ideas+Into+Intelligent+Solutions;Code+%7C+Create+[...]
   </p>
   <p>
     <strong><i style="color: #ff1493;">" Building the Future, One Algorithm at a Time "</i></strong>
@@ -120,7 +120,7 @@ Excited to collaborate and push technological boundaries
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sweta-sharma-9a96b7336)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Sweta113Sharma)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:sweta.dollysharma@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:sweta.dollysharma@outlook.com)
 
 </div>
 
