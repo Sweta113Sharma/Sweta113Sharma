@@ -56,7 +56,7 @@ Excited to collaborate and push technological boundaries
 
 <div style="background: linear-gradient(135deg, rgba(255, 105, 180, 0.1) 0%, rgba(255, 20, 147, 0.1) 100%); padding: 15px; border-radius: 8px; border: 1px solid #ff69b4;">
 
-| 🎯 Project | 📝 Description |
+| Project | Description |
 |-----------|-------------|
 | **StudyNest** | AI-Powered Syllabus Manager and Study Tracker for University Students |
 | **ProjectMatch** | Tinder-style Platform for Finding Project Collaborators and Teammates |
