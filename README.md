@@ -144,7 +144,7 @@ Excited to collaborate and push technological boundaries
 
 <div align="center">
 
-![Sweta's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sweta113Sharma&theme=react-dark&bg_color=0d1117&color=ff69b4&line=ff69b4&point=c9d1d9&area=true)
+![Sweta's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sweta113Sharma&theme=react-dark&bg_color=0d1117&color=ff69b4&line=ff69b4&point=c9d1d9&area=true)
 
 </div>
 
