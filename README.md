@@ -1,6 +1,6 @@
 <div align="center" style="background: linear-gradient(135deg, #1a0f1f 0%, #2d1b3d 100%); padding: 20px; border-radius: 10px; border: 2px solid #ff69b4;">
 
-# <span style="color: #ff69b4; text-shadow: 0 0 10px #ff1493;"> 
+# <span style="font-size: 3.5rem; color: #ff69b4; text-shadow: 0 0 10px #ff1493; font-weight: bold; display: block; margin: 10px 0;"> 
  SWETA KUMARI 
 </span>
 
