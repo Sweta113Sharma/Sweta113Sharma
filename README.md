@@ -1,9 +1,7 @@
-<div align="center" style="background: linear-gradient(135deg, #1a0f1f 0%, #2d1b3d 100%); padding: 20px; border-radius: 10px; border: 2px solid #ff69b4;">
-
-# <span style="font-size: 3.5rem; color: #ff69b4; text-shadow: 0 0 10px #ff1493; font-weight: bold; display: block; margin: 10px 0;"> 
- SWETA KUMARI 
-</span>
-
+<div align="center" style="background: linear-gradient(135deg, #0f0c1b 0%, #201335 50%, #0f0c1b 100%); padding: 35px 20px; border-radius: 15px; border: 3px solid #ff69b4; box-shadow: 0 0 20px rgba(255, 105, 180, 0.3); margin-bottom: 20px;">
+  <h1 style="color: #ffffff; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 3.8em; font-weight: 800; letter-spacing: 3px; text-shadow: 0 0 10px #ff69b4, 0 0 20px #ff1493, 0 0 30px #ff1493; margin: 0; padding: 0; text-transform: uppercase;">
+    SWETA KUMARI
+  </h1>
 </div>
 
 <div align="center" style="background: linear-gradient(135deg, #1a0f1f 0%, #2d1b3d 100%); padding: 20px; border-radius: 10px; margin: 10px 0;">
@@ -11,7 +9,7 @@
       🚀 Full Stack Developer & AI Architect 🤖
   </h3>
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=ff69b4&center=true&vCenter=true&width=700&lines=Transforming+Ideas+Into+Intelligent+Solutions;Code+%7C+Create+%7C+Innovate;Building+the+Future+with+AI;AI+%7C+ML+%7C+Web+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=ff69b4&center=true&vCenter=true&width=700&lines=Transforming+Ideas+Into+Intelligent+Solutions;Code+%7C+Create+%7C+Innovate;Building+the+Future+with+AI;AI+%7C+ML+%7C+Web+Development" alt="Typing SVG" />
   </p>
   <p>
     <strong><i style="color: #ff1493;">"  Building the Future, One Algorithm at a Time  "</i></strong>
@@ -76,7 +74,7 @@ Excited to collaborate and push technological boundaries
 
 ### 🔥 Contribution Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sweta113Sharma&theme=radical&hide_border=false&background=0d1117&ring=ff69b4&fire=ff69b4&stroke=c9d1d9)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sweta113Sharma&theme=radical&hide_border=false&background=0d1117&ring=ff69b4&fire=ff69b4&stroke=c9d1d9)
 
 ### 📈 GitHub Stats
 
