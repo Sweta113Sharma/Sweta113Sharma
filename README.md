@@ -148,10 +148,7 @@ Excited to collaborate and push technological boundaries
 
 ---
 
-<div align="center" style="background: linear-gradient(135deg, #ff69b4 0%, #ff1493 100%); padding: 20px; border-radius: 10px; margin-top: 20px;">
-  <h3 style="color: white; text-shadow: 0 0 15px rgba(0,0,0,0.3);">🌟 Let's Build Something Extraordinary Together 🌟</h3>
-  <p style="color: white; font-size: 16px;"><i>✨ Where Innovation Meets Execution ✨</i></p>
-</div>
+
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=Sweta113Sharma&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
