@@ -9,7 +9,7 @@
       🚀 Full Stack Developer & AI Architect 🤖
   </h3>
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=ff69b4&center=true&vCenter=true&width=700&lines=Transforming+Ideas+Into+Intelligent+Solutions;Code+%7C+Create+%7C+Innovate;Building+the+Future+with+AI;AI+%7C+ML+%7C+Web+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=ff69b4&center=true&vCenter=true&width=700&lines=Hi%2C%20I'm%20Sweta!;Full%20Stack%20Developer%20%26%20AI%20Architect;AI%20%7C%20ML%20%7C%20Web%20Development;Transforming%20Ideas%20Into%20Intelligent%20Solutions;Building%20the%20Future%20with%20AI" alt="Typing SVG" />
   </p>
   <p>
     <strong><i style="color: #ff1493;">"  Building the Future, One Algorithm at a Time  "</i></strong>
