@@ -7,12 +7,6 @@
   </p>
 </div>
 
-<div align="center">
-  <a href="https://portfolio-98nk58k2z-leaf-logic.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
-  </a>
-</div>
-
 ---
 
 ## 🎯 About Me
