@@ -1,18 +1,9 @@
-<div align="center" style="background: linear-gradient(135deg, #0f0c1b 0%, #201335 50%, #0f0c1b 100%); padding: 35px 20px; border-radius: 15px; border: 3px solid #ff69b4; box-shadow: 0 0 20px rgba(255, 105, 180, 0.3); margin-bottom: 20px;">
-  <h1 style="color: #ffffff; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 3.8em; font-weight: 800; letter-spacing: 3px; text-shadow: 0 0 10px #ff69b4, 0 0 20px #ff1493, 0 0 30px #ff1493; margin: 0; padding: 0; text-transform: uppercase;">
-    SWETA KUMARI
-  </h1>
-</div>
-
-<div align="center" style="background: linear-gradient(135deg, #1a0f1f 0%, #2d1b3d 100%); padding: 20px; border-radius: 10px; margin: 10px 0;">
-  <h3 style="font-family: 'Courier New', monospace; font-weight: bold; letter-spacing: 2px; color: #ff69b4;">
-      🚀 Full Stack Developer & AI Architect 🤖
-  </h3>
+<div align="center" style="background: linear-gradient(135deg, #0f0c1b 0%, #201335 50%, #0f0c1b 100%); padding: 30px 20px; border-radius: 15px; border: 3px solid #ff69b4; box-shadow: 0 0 20px rgba(255, 105, 180, 0.3); margin-bottom: 20px;">
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=ff69b4&center=true&vCenter=true&width=700&lines=Hi%2C%20I'm%20Sweta!;Full%20Stack%20Developer%20%26%20AI%20Architect;AI%20%7C%20ML%20%7C%20Web%20Development;Transforming%20Ideas%20Into%20Intelligent%20Solutions;Building%20the%20Future%20with%20AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=ff69b4&center=true&vCenter=true&width=950&height=70&lines=Hi%2C%20I'm%20Sweta!;Full%20Stack%20Developer%20%26%20AI%20Architect;AI%20%7C%20ML%20%7C%20Web%20Development;Transforming%20Ideas%20Into%20Intelligent%20Solutions;Building%20the%20Future%20with%20AI" alt="Typing SVG" />
   </p>
-  <p>
-    <strong><i style="color: #ff1493;">"  Building the Future, One Algorithm at a Time  "</i></strong>
+  <p style="margin-top: 15px;">
+    <strong><i style="color: #ff1493; font-size: 1.1em;">"  Building the Future, One Algorithm at a Time  "</i></strong>
   </p>
 </div>
 
