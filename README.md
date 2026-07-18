@@ -45,17 +45,25 @@ Excited to collaborate and push technological boundaries
 
 <div style="background: linear-gradient(135deg, rgba(255, 105, 180, 0.1) 0%, rgba(255, 20, 147, 0.1) 100%); padding: 15px; border-radius: 8px; border: 1px solid #ff69b4;">
 
-| Project | Description |
-|-----------|-------------|
-| **StudyNest** | AI-Powered Syllabus Manager and Study Tracker for University Students |
-| **ProjectMatch** | Tinder-style Platform for Finding Project Collaborators and Teammates |
-| **CodeAlpha Chatbot** | AI-Powered Customer Support Assistant |
+| Project | Description | Link |
+|---|---|---|
+| 🛡️ **Attestr** | Decentralized media provenance ledger storing metadata hashes on Sepolia (Solidity) with AI deepfake & forensics analysis. | [GitHub](https://github.com/yash113gadia/attestr) |
+| 🤖 **AlphaBot** | Retrieval-based support chatbot client for CodeAlpha virtual internships using a Flask & SQLite3 ticket backend. | [GitHub](https://github.com/Sweta113Sharma/CodeAlpha_Chatbot) |
+| 📚 **StudyNest** | AI-powered university syllabus milestone manager and study progress tracker. | [GitHub](https://github.com/Sweta113Sharma/studynest) |
+| 🤝 **ProjectMatch** | A collaborative developer-project matchmaking platform with responsive sorting filters. | [GitHub](https://github.com/Sweta113Sharma/projec-tmatch) |
+| 🧪 **Prodigy QA Suites** | Formal software testing test plans (e-commerce compatibility testing) and validation suites (calculator BODMAS/decimal limits). | [GitHub](https://github.com/Sweta113Sharma/prodigy-infotech-task-1) |
 
 <br/>
 
 [🔗 View All Projects](https://github.com/Sweta113Sharma?tab=repositories)
 
 </div>
+
+---
+
+## 🏆 Certifications
+
+- 🥇 **Gold Certification — Gen AI 101** | NASSCOM FutureSkills Prime (2025)
 
 ---
 
@@ -121,8 +129,8 @@ Excited to collaborate and push technological boundaries
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-98nk58k2z-leaf-logic.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sweta-sharma-9a96b7336)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sweta113sharma.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swetasharmaa/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sweta113Sharma)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sweta.dollysharma@outlook.com)
 
