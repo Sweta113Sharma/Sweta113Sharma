@@ -9,7 +9,7 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 <div style="background: linear-gradient(135deg, rgba(255, 105, 180, 0.1) 0%, rgba(255, 20, 147, 0.1) 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #ff69b4;">
 
@@ -24,7 +24,7 @@ Excited to collaborate and push technological boundaries
 
 ---
 
-## 🔥 Technology Stack
+## Technology Stack
 
 <div align="center">
 
@@ -41,17 +41,17 @@ Excited to collaborate and push technological boundaries
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div style="background: linear-gradient(135deg, rgba(255, 105, 180, 0.1) 0%, rgba(255, 20, 147, 0.1) 100%); padding: 15px; border-radius: 8px; border: 1px solid #ff69b4;">
 
 | Project | Description | Link |
 |---|---|---|
-| 🛡️ **Attestr** | Decentralized media provenance ledger storing metadata hashes on Sepolia (Solidity) with AI deepfake & forensics analysis. | [GitHub](https://github.com/yash113gadia/attestr) |
-| 🤖 **AlphaBot** | Retrieval-based support chatbot client for CodeAlpha virtual internships using a Flask & SQLite3 ticket backend. | [GitHub](https://github.com/Sweta113Sharma/CodeAlpha_Chatbot) |
-| 📚 **StudyNest** | AI-powered university syllabus milestone manager and study progress tracker. | [GitHub](https://github.com/Sweta113Sharma/studynest) |
-| 🤝 **ProjectMatch** | A collaborative developer-project matchmaking platform with responsive sorting filters. | [GitHub](https://github.com/Sweta113Sharma/projec-tmatch) |
-| 🧪 **Prodigy QA Suites** | Formal software testing test plans (e-commerce compatibility testing) and validation suites (calculator BODMAS/decimal limits). | [GitHub](https://github.com/Sweta113Sharma/prodigy-infotech-task-1) |
+| **Attestr** | Decentralized media provenance ledger storing metadata hashes on Sepolia (Solidity) with AI deepfake & forensics analysis. | [GitHub](https://github.com/yash113gadia/attestr) |
+| **AlphaBot** | Retrieval-based support chatbot client for CodeAlpha virtual internships using a Flask & SQLite3 ticket backend. | [GitHub](https://github.com/Sweta113Sharma/CodeAlpha_Chatbot) |
+| **StudyNest** | AI-powered university syllabus milestone manager and study progress tracker. | [GitHub](https://github.com/Sweta113Sharma/studynest) |
+| **ProjectMatch** | A collaborative developer-project matchmaking platform with responsive sorting filters. | [GitHub](https://github.com/Sweta113Sharma/projec-tmatch) |
+| **Prodigy QA Suites** | Formal software testing test plans (e-commerce compatibility testing) and validation suites (calculator BODMAS/decimal limits). | [GitHub](https://github.com/Sweta113Sharma/prodigy-infotech-task-1) |
 
 <br/>
 
@@ -61,25 +61,25 @@ Excited to collaborate and push technological boundaries
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
-- 🥇 **Gold Certification — Gen AI 101** | NASSCOM FutureSkills Prime (2025)
+- **Gold Certification — Gen AI 101** | NASSCOM FutureSkills Prime (2025)
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-### 🔥 Contribution Streak
+### Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sweta113Sharma&theme=radical&hide_border=false&background=0d1117&ring=ff69b4&fire=ff69b4&stroke=c9d1d9)
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 ![Sweta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sweta113Sharma&theme=radical&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9&count_private=true)
 
-### 🛠️ Most Used Languages
+### Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sweta113Sharma&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=c9d1d9&langs_count=8)
 
@@ -87,13 +87,13 @@ Excited to collaborate and push technological boundaries
 
 ---
 
-## 💪 Skills & Expertise
+## Skills & Expertise
 
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px;">
 
 <div style="background: linear-gradient(135deg, rgba(255, 105, 180, 0.15) 0%, rgba(255, 20, 147, 0.15) 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #ff69b4;">
 
-**🎨 Frontend Development**
+** Frontend Development**
 - React & React Hooks
 - TypeScript
 - Tailwind CSS
@@ -103,7 +103,7 @@ Excited to collaborate and push technological boundaries
 
 <div style="background: linear-gradient(135deg, rgba(255, 105, 180, 0.15) 0%, rgba(255, 20, 147, 0.15) 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #ff69b4;">
 
-**⚙️ Backend Development**
+** Backend Development**
 - Flask
 - Python
 - SQLite
@@ -113,7 +113,7 @@ Excited to collaborate and push technological boundaries
 
 <div style="background: linear-gradient(135deg, rgba(255, 105, 180, 0.15) 0%, rgba(255, 20, 147, 0.15) 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #ff69b4;">
 
-**🤖 AI & Integration**
+** AI & Integration**
 - OpenRouter API
 - LLM Integration
 - Prompt Engineering
@@ -125,7 +125,7 @@ Excited to collaborate and push technological boundaries
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -138,7 +138,7 @@ Excited to collaborate and push technological boundaries
 
 ---
 
-## 📌 Latest Activity
+## Latest Activity
 
 <div align="center">
 
