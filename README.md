@@ -63,6 +63,7 @@ Excited to collaborate and push technological boundaries
 
 ## Certifications
 
+- **Gold Certification — Vibe Coding - AI Assisted Application Development** | NASSCOM FutureSkills Prime (2026)
 - **Gold Certification — Gen AI 101** | NASSCOM FutureSkills Prime (2025)
 
 ---
