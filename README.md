@@ -7,7 +7,7 @@
 
 ## About Me
 
-<div style="background: linear-gradient(135deg, rgba(255, 105, 180, 0.1) 0%, rgba(255, 20, 147, 0.1) 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #ff69b4;">
+<div style="background: linear-gradient(135deg, rgba(140, 163, 138, 0.15) 0%, rgba(110, 145, 118, 0.15) 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #6e9176;">
 
 ```
 Full Stack Developer | AI & ML Enthusiast | Problem Solver
@@ -39,7 +39,7 @@ Excited to collaborate and push technological boundaries
 
 ## Featured Projects
 
-<div style="background: linear-gradient(135deg, rgba(255, 105, 180, 0.1) 0%, rgba(255, 20, 147, 0.1) 100%); padding: 15px; border-radius: 8px; border: 1px solid #ff69b4;">
+<div style="background: linear-gradient(135deg, rgba(140, 163, 138, 0.1) 0%, rgba(110, 145, 118, 0.1) 100%); padding: 15px; border-radius: 8px; border: 1px solid #6e9176;">
 
 | Project | Description | Link |
 |---|---|---|
@@ -70,15 +70,15 @@ Excited to collaborate and push technological boundaries
 
 ### Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sweta113Sharma&theme=radical&hide_border=false&background=0d1117&ring=ff69b4&fire=ff69b4&stroke=c9d1d9)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sweta113Sharma&theme=radical&hide_border=false&background=0d1117&ring=6e9176&fire=6e9176&stroke=c9d1d9)
 
 ### GitHub Stats
 
-![Sweta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sweta113Sharma&theme=radical&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9&count_private=true)
+![Sweta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sweta113Sharma&theme=radical&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6e9176&icon_color=6e9176&text_color=c9d1d9&count_private=true)
 
 ### Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sweta113Sharma&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=c9d1d9&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sweta113Sharma&theme=radical&hide_border=true&bg_color=0d1117&title_color=6e9176&text_color=c9d1d9&langs_count=8)
 
 </div>
 
@@ -88,7 +88,7 @@ Excited to collaborate and push technological boundaries
 
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px;">
 
-<div style="background: linear-gradient(135deg, rgba(255, 105, 180, 0.15) 0%, rgba(255, 20, 147, 0.15) 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #ff69b4;">
+<div style="background: linear-gradient(135deg, rgba(140, 163, 138, 0.15) 0%, rgba(110, 145, 118, 0.15) 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #6e9176;">
 
 ** Frontend Development**
 - React & React Hooks
@@ -98,7 +98,7 @@ Excited to collaborate and push technological boundaries
 
 </div>
 
-<div style="background: linear-gradient(135deg, rgba(255, 105, 180, 0.15) 0%, rgba(255, 20, 147, 0.15) 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #ff69b4;">
+<div style="background: linear-gradient(135deg, rgba(140, 163, 138, 0.15) 0%, rgba(110, 145, 118, 0.15) 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #6e9176;">
 
 ** Backend Development**
 - Flask
@@ -108,7 +108,7 @@ Excited to collaborate and push technological boundaries
 
 </div>
 
-<div style="background: linear-gradient(135deg, rgba(255, 105, 180, 0.15) 0%, rgba(255, 20, 147, 0.15) 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #ff69b4;">
+<div style="background: linear-gradient(135deg, rgba(140, 163, 138, 0.15) 0%, rgba(110, 145, 118, 0.15) 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #6e9176;">
 
 ** AI & Integration**
 - OpenRouter API
@@ -126,7 +126,7 @@ Excited to collaborate and push technological boundaries
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sweta113sharma.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6E9176?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sweta113sharma.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swetasharmaa/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sweta113Sharma)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sweta.dollysharma@outlook.com)
@@ -139,7 +139,7 @@ Excited to collaborate and push technological boundaries
 
 <div align="center">
 
-![Sweta's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sweta113Sharma&theme=react-dark&bg_color=0d1117&color=ff69b4&line=ff69b4&point=c9d1d9&area=true)
+![Sweta's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sweta113Sharma&theme=react-dark&bg_color=0d1117&color=6e9176&line=6e9176&point=c9d1d9&area=true)
 
 </div>
 
@@ -148,5 +148,5 @@ Excited to collaborate and push technological boundaries
 
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=Sweta113Sharma&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sweta113Sharma&label=Profile%20Views&color=6e9176&style=flat-square" alt="Profile Views" />
 </div>
