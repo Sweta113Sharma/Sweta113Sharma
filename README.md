@@ -86,37 +86,11 @@ Excited to collaborate and push technological boundaries
 
 ## Skills & Expertise
 
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px;">
+<div style="background: linear-gradient(135deg, rgba(140, 163, 138, 0.1) 0%, rgba(110, 145, 118, 0.1) 100%); padding: 18px; border-radius: 8px; border-left: 4px solid #6e9176; line-height: 1.8;">
 
-<div style="background: linear-gradient(135deg, rgba(140, 163, 138, 0.15) 0%, rgba(110, 145, 118, 0.15) 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #6e9176;">
-
-** Frontend Development**
-- React & React Hooks
-- TypeScript
-- Tailwind CSS
-- Responsive Design
-
-</div>
-
-<div style="background: linear-gradient(135deg, rgba(140, 163, 138, 0.15) 0%, rgba(110, 145, 118, 0.15) 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #6e9176;">
-
-** Backend Development**
-- Flask
-- Python
-- SQLite
-- REST APIs
-
-</div>
-
-<div style="background: linear-gradient(135deg, rgba(140, 163, 138, 0.15) 0%, rgba(110, 145, 118, 0.15) 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #6e9176;">
-
-** AI & Integration**
-- OpenRouter API
-- LLM Integration
-- Prompt Engineering
-- AI Chatbots
-
-</div>
+**💻 Frontend:** `React & React Hooks` • `TypeScript` • `Tailwind CSS` • `Responsive Design`  
+**⚙️ Backend:** `Flask` • `Python` • `SQLite` • `REST APIs`  
+**🤖 AI & Integration:** `OpenRouter API` • `LLM Integration` • `Prompt Engineering` • `AI Chatbots`
 
 </div>
 
