@@ -70,15 +70,15 @@ Excited to collaborate and push technological boundaries
 
 ### Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sweta113Sharma&theme=radical&hide_border=false&background=0d1117&ring=6e9176&fire=6e9176&stroke=c9d1d9)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sweta113Sharma&theme=radical&hide_border=false&background=0d1117&ring=ff69b4&fire=ff69b4&stroke=c9d1d9)
 
 ### GitHub Stats
 
-![Sweta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sweta113Sharma&theme=radical&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6e9176&icon_color=6e9176&text_color=c9d1d9&count_private=true)
+![Sweta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sweta113Sharma&theme=radical&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9&count_private=true)
 
 ### Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sweta113Sharma&theme=radical&hide_border=true&bg_color=0d1117&title_color=6e9176&text_color=c9d1d9&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sweta113Sharma&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=c9d1d9&langs_count=8)
 
 </div>
 
@@ -139,7 +139,7 @@ Excited to collaborate and push technological boundaries
 
 <div align="center">
 
-![Sweta's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sweta113Sharma&theme=react-dark&bg_color=0d1117&color=6e9176&line=6e9176&point=c9d1d9&area=true)
+![Sweta's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sweta113Sharma&theme=react-dark&bg_color=0d1117&color=ff69b4&line=ff69b4&point=c9d1d9&area=true)
 
 </div>
 
