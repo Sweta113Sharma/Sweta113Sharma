@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="assets/profile_banner.png" alt="Sweta Profile Banner" width="100%" />
+  <img src="assets/profile_banner.svg" alt="Banner: Sweta Sharma — Full-Stack Developer & AI/ML Enthusiast" width="100%" />
   
   <p align="center">
     <a href="https://github.com/Sweta113Sharma">🔗 GitHub</a> &nbsp;|&nbsp;
-    <a href="mailto:sweta.dollysharma@gmail.com">✉️ Email</a> &nbsp;|&nbsp;
+    <a href="mailto:swetakumarii034@gmail.com">✉️ Email</a> &nbsp;|&nbsp;
     <a href="https://sweta113sharma.github.io/portfolio/">🌐 Portfolio</a>
   </p>
 </div>
@@ -56,7 +56,6 @@ Excited to collaborate and push technological boundaries
 | **AlphaBot** | Retrieval-based support chatbot client for CodeAlpha virtual internships using a Flask & SQLite3 ticket backend. | [GitHub](https://github.com/Sweta113Sharma/CodeAlpha_Chatbot) |
 | **StudyNest** | AI-powered university syllabus milestone manager and study progress tracker. | [GitHub](https://github.com/Sweta113Sharma/studynest) |
 | **ProjectMatch** | A collaborative developer-project matchmaking platform with responsive sorting filters. | [GitHub](https://github.com/Sweta113Sharma/projec-tmatch) |
-| **Prodigy QA Suites** | Formal software testing test plans (e-commerce compatibility testing) and validation suites (calculator BODMAS/decimal limits). | [GitHub](https://github.com/Sweta113Sharma/prodigy-infotech-task-1) |
 
 <br/>
 
@@ -83,7 +82,7 @@ Excited to collaborate and push technological boundaries
 
 ### GitHub Stats
 
-![Sweta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sweta113Sharma&theme=radical&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9&count_private=true)
+![Sweta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sweta113Sharma&theme=radical&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9)
 
 ### Most Used Languages
 
@@ -112,7 +111,7 @@ Excited to collaborate and push technological boundaries
 [![Portfolio](https://img.shields.io/badge/Portfolio-6E9176?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sweta113sharma.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swetasharmaa/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sweta113Sharma)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sweta.dollysharma@outlook.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swetakumarii034@gmail.com)
 
 </div>
 
