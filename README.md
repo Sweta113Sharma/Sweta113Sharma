@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile_banner.svg" alt="Banner: Sweta Sharma — Full-Stack Developer & AI/ML Enthusiast" width="100%" />
+  <img src="assets/animated_name.svg" alt="Hi, I'm Sweta — animated header" width="100%" />
   
   <p align="center">
     <a href="https://github.com/Sweta113Sharma">🔗 GitHub</a> &nbsp;|&nbsp;
@@ -7,7 +7,6 @@
     <a href="https://sweta113sharma.github.io/portfolio/">🌐 Portfolio</a>
   </p>
 </div>
-
 
 ---
 
@@ -82,7 +81,7 @@ Excited to collaborate and push technological boundaries
 
 ### GitHub Stats
 
-![Sweta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sweta113Sharma&theme=radical&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9)
+![Sweta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sweta113Sharma&theme=radical&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_[...]
 
 ### Most Used Languages
 
