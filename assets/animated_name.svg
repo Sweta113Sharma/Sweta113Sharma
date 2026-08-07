@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" preserveAspectRatio="xMidYMid meet">
+  <style>
+    .text { font: 700 48px 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial; fill:#ff69b4; }
+    .name { fill:#ffffff; font-weight:700; font-size:56px; }
+    .wave { animation: float 2.4s ease-in-out infinite; transform-origin:50% 50%; }
+    @keyframes float { 0%{transform:translateY(0);}50%{transform:translateY(-12px);}100%{transform:translateY(0);} }
+  </style>
+  <rect width="100%" height="100%" fill="#0d1117" rx="12"/>
+  <text x="50%" y="46%" text-anchor="middle" class="text">Hi,</text>
+  <text x="50%" y="72%" text-anchor="middle" class="name wave">I'm Sweta</text>
+</svg>
