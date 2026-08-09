@@ -81,11 +81,15 @@ Excited to collaborate and push technological boundaries
 
 ### GitHub Stats
 
-![Sweta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sweta113Sharma&theme=radical&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_[...]
+![Sweta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sweta113Sharma&theme=radical&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9)
 
 ### Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sweta113Sharma&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=c9d1d9&langs_count=8)
+
+### Activity Graph
+
+![Sweta's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sweta113Sharma&theme=react-dark&bg_color=0d1117&color=ff69b4&line=ff69b4&point=c9d1d9&area=true)
 
 </div>
 
@@ -125,8 +129,6 @@ Excited to collaborate and push technological boundaries
 </div>
 
 ---
-
-
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=Sweta113Sharma&label=Profile%20Views&color=6e9176&style=flat-square" alt="Profile Views" />
