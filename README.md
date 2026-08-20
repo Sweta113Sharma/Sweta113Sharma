@@ -2,9 +2,9 @@
   <img src="assets/animated_name.svg" alt="Hi, I'm Sweta — animated header" width="100%" />
   
   <p align="center">
-    <a href="https://github.com/Sweta113Sharma">🔗 GitHub</a> &nbsp;|&nbsp;
-    <a href="mailto:swetakumarii034@gmail.com">✉️ Email</a> &nbsp;|&nbsp;
-    <a href="https://sweta113sharma.github.io/portfolio/">🌐 Portfolio</a>
+    <a href="https://github.com/Sweta113Sharma"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> &nbsp;|&nbsp;
+    <a href="mailto:swetakumarii034@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> &nbsp;|&nbsp;
+    <a href="https://sweta113sharma.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-6E9176?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   </p>
 </div>
 
@@ -81,7 +81,7 @@ Excited to collaborate and push technological boundaries
 
 ### GitHub Stats
 
-![Sweta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sweta113Sharma&theme=radical&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9)
+![Sweta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sweta113Sharma&theme=radical&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_[...]
 
 ### Most Used Languages
 
