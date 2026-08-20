@@ -10,6 +10,13 @@
     <a href="https://twitter.com/" style="margin:0 6px"><img src="https://img.shields.io/badge/%20-?style=flat-square&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter" height="28"/></a>
     <a href="https://dev.to/" style="margin:0 6px"><img src="https://img.shields.io/badge/%20-?style=flat-square&logo=devdotto&logoColor=white&color=0A0A0A" alt="Dev.to" height="28"/></a>
   </p>
+
+  <!-- Social links under animation -->
+  <div style="margin-top: 16px;">
+    <a href="https://www.linkedin.com/in/swetasharmaa/" style="margin:0 12px; text-decoration:none"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="32"/></a>
+    <a href="https://sweta113sharma.github.io/portfolio/" style="margin:0 12px; text-decoration:none"><img src="https://img.shields.io/badge/Portfolio-6E9176?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" height="32"/></a>
+    <a href="mailto:swetakumarii034@gmail.com" style="margin:0 12px; text-decoration:none"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="32"/></a>
+  </div>
 </div>
 
 ---
