@@ -1,11 +1,10 @@
 <div align="center">
   <img src="assets/animated_name.svg" alt="Hi, I'm Sweta — animated header" width="100%" />
-  
-  <!-- Social links under animation -->
+
   <div style="margin-top: 16px;">
-    <a href="https://www.linkedin.com/in/swetasharmaa/" style="margin:0 12px; text-decoration:none"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="32"/></a>
-    <a href="https://sweta113sharma.github.io/portfolio/" style="margin:0 12px; text-decoration:none"><img src="https://img.shields.io/badge/Portfolio-6E9176?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" height="32"/></a>
-    <a href="mailto:swetakumarii034@gmail.com" style="margin:0 12px; text-decoration:none"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="32"/></a>
+    <a href="https://www.linkedin.com/in/swetasharmaa/" style="margin:0 12px; text-decoration:none"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://sweta113sharma.github.io/portfolio/" style="margin:0 12px; text-decoration:none"><img src="https://img.shields.io/badge/Portfolio-6E9176?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:swetakumarii034@gmail.com" style="margin:0 12px; text-decoration:none"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   </div>
 </div>
 
@@ -15,18 +14,24 @@
 
 <div style="background: linear-gradient(135deg, rgba(140, 163, 138, 0.15) 0%, rgba(110, 145, 118, 0.15) 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #6e9176;">
 
-```
-Full Stack Developer | AI & ML Enthusiast | Problem Solver
-Crafting intelligent, scalable, and user-centric applications
-Passionate about innovation and continuous growth
-Excited to collaborate and push technological boundaries
-```
+Hi, I’m Sweta — a Full Stack Developer with a strong interest in AI, ML, and building smart, scalable digital products.
+
+I enjoy turning ideas into user-centric experiences by combining thoughtful frontend design, robust backend logic, and practical AI integrations. My focus is on building products that are not only functional, but also intuitive, impactful, and future-ready.
 
 </div>
 
 ---
 
-## Technology Stack
+## What I Build
+
+- Full-stack web applications with modern user experiences
+- AI-powered tools and chatbot experiences
+- Course, productivity, and collaboration platforms
+- End-to-end features from frontend UI to backend APIs
+
+---
+
+## Tech Stack
 
 <div align="center">
 
@@ -82,7 +87,7 @@ Excited to collaborate and push technological boundaries
 
 ### GitHub Stats
 
-![Sweta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sweta113Sharma&theme=radical&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9)
+![Sweta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sweta113Sharma&theme=radical&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9&rank_icon=github)
 
 ### Most Used Languages
 
@@ -102,11 +107,20 @@ Excited to collaborate and push technological boundaries
 
 **💻 Frontend:** `React & React Hooks` • `TypeScript` • `Tailwind CSS` • `Responsive Design`  
 **⚙️ Backend:** `Flask` • `Python` • `SQLite` • `REST APIs`  
-**🤖 AI & Integration:** `OpenRouter API` • `LLM Integration` • `Prompt Engineering` • `AI Chatbots`
+**🤖 AI & Integration:** `OpenRouter API` • `LLM Integration` • `Prompt Engineering` • `AI Chatbots`  
+**🚀 Focus:** `Product thinking` • `Problem solving` • `Collaboration` • `Continuous learning`
 
 </div>
 
 ---
+
+## Let’s Connect
+
+I'm always open to meaningful collaborations, projects, and opportunities to build something impactful together.
+
+- LinkedIn: https://www.linkedin.com/in/swetasharmaa/
+- Portfolio: https://sweta113sharma.github.io/portfolio/
+- Email: swetakumarii034@gmail.com
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=Sweta113Sharma&label=Profile%20Views&color=6e9176&style=flat-square" alt="Profile Views" />
