@@ -10,63 +10,54 @@
 
 ---
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-Available-6E9176?style=for-the-badge" alt="Open to opportunities" />
+</div>
+
+---
+
 ## About Me
 
-<div style="background: linear-gradient(135deg, rgba(140, 163, 138, 0.15) 0%, rgba(110, 145, 118, 0.15) 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #6e9176;">
+I am a Full Stack Developer with a strong interest in AI, ML, and building digital products that solve real user problems. My work combines frontend usability, backend reliability, and practical AI integration to create thoughtful, scalable, and business-ready solutions.
 
-Hi, I’m Sweta — a Full Stack Developer with a strong interest in AI, ML, and building smart, scalable digital products.
-
-I enjoy turning ideas into user-centric experiences by combining thoughtful frontend design, robust backend logic, and practical AI integrations. My focus is on building products that are not only functional, but also intuitive, impactful, and future-ready.
-
-</div>
+I enjoy building products that balance design, performance, and functionality while staying focused on user needs and measurable outcomes.
 
 ---
 
-## What I Build
+## What I Bring
 
-- Full-stack web applications with modern user experiences
-- AI-powered tools and chatbot experiences
-- Course, productivity, and collaboration platforms
-- End-to-end features from frontend UI to backend APIs
+- Full-stack development for responsive, scalable web applications
+- Strong UI/UX understanding with modern frontend workflows
+- Backend development using Python, Flask, and REST APIs
+- AI-powered product experiences and LLM integrations
+- Problem-solving mindset with a product-focused approach
+- Ability to turn ideas into usable, deployable solutions
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-<div align="center">
+### Frontend
+`React` • `TypeScript` • `JavaScript` • `Tailwind CSS` • `HTML5` • `CSS3` • `Responsive Design`
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST_APIs-6E9176?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![LLM Integration](https://img.shields.io/badge/-LLM_Integration-FF69B4?style=for-the-badge&logo=openai&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Backend
+`Python` • `Flask` • `REST APIs` • `SQLite` • `Git`
 
-</div>
+### AI & Emerging Tech
+`LLM Integration` • `Prompt Engineering` • `OpenRouter API` • `AI Chatbots` • `Product Thinking`
 
 ---
 
 ## Featured Projects
 
-<div style="background: linear-gradient(135deg, rgba(140, 163, 138, 0.1) 0%, rgba(110, 145, 118, 0.1) 100%); padding: 15px; border-radius: 8px; border: 1px solid #6e9176;">
-
 | Project | Description | Link |
 |---|---|---|
-| **Attestr** | Decentralized media provenance ledger storing metadata hashes on Sepolia (Solidity) with AI deepfake & forensics analysis. | [GitHub](https://github.com/yash113gadia/attestr) |
-| **AlphaBot** | Retrieval-based support chatbot client for CodeAlpha virtual internships using a Flask & SQLite3 ticket backend. | [GitHub](https://github.com/Sweta113Sharma/CodeAlpha_Chatbot) |
-| **StudyNest** | AI-powered university syllabus milestone manager and study progress tracker. | [GitHub](https://github.com/Sweta113Sharma/studynest) |
-| **ProjectMatch** | A collaborative developer-project matchmaking platform with responsive sorting filters. | [GitHub](https://github.com/Sweta113Sharma/projec-tmatch) |
-
-<br/>
+| **Attestr** | Decentralized media provenance ledger storing metadata hashes on Sepolia with AI-based deepfake and forensic analysis. | [GitHub](https://github.com/yash113gadia/attestr) |
+| **AlphaBot** | Retrieval-based support chatbot for CodeAlpha internships, built with Flask and SQLite backend. | [GitHub](https://github.com/Sweta113Sharma/CodeAlpha_Chatbot) |
+| **StudyNest** | AI-powered study and milestones tracker designed for academic planning and productivity. | [GitHub](https://github.com/Sweta113Sharma/studynest) |
+| **ProjectMatch** | Collaborative developer matchmaking platform with responsive filtering and project discovery. | [GitHub](https://github.com/Sweta113Sharma/projec-tmatch) |
 
 [🔗 View All Projects](https://github.com/Sweta113Sharma?tab=repositories)
-
-</div>
 
 ---
 
@@ -74,6 +65,16 @@ I enjoy turning ideas into user-centric experiences by combining thoughtful fron
 
 - **Gold Certification — Vibe Coding - AI Assisted Application Development** | NASSCOM FutureSkills Prime (2026)
 - **Gold Certification — Gen AI 101** | NASSCOM FutureSkills Prime (2025)
+
+---
+
+## Profile Snapshot
+
+- Full Stack Developer
+- AI & ML Enthusiast
+- Problem Solver
+- Product-focused builder
+- Interested in impactful and scalable digital experiences
 
 ---
 
@@ -101,22 +102,9 @@ I enjoy turning ideas into user-centric experiences by combining thoughtful fron
 
 ---
 
-## Skills & Expertise
+## Contact
 
-<div style="background: linear-gradient(135deg, rgba(140, 163, 138, 0.1) 0%, rgba(110, 145, 118, 0.1) 100%); padding: 18px; border-radius: 8px; border-left: 4px solid #6e9176; line-height: 1.8;">
-
-**💻 Frontend:** `React & React Hooks` • `TypeScript` • `Tailwind CSS` • `Responsive Design`  
-**⚙️ Backend:** `Flask` • `Python` • `SQLite` • `REST APIs`  
-**🤖 AI & Integration:** `OpenRouter API` • `LLM Integration` • `Prompt Engineering` • `AI Chatbots`  
-**🚀 Focus:** `Product thinking` • `Problem solving` • `Collaboration` • `Continuous learning`
-
-</div>
-
----
-
-## Let’s Connect
-
-I'm always open to meaningful collaborations, projects, and opportunities to build something impactful together.
+I’m open to opportunities, collaboration, and meaningful product work.
 
 - LinkedIn: https://www.linkedin.com/in/swetasharmaa/
 - Portfolio: https://sweta113sharma.github.io/portfolio/
