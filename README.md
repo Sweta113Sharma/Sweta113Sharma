@@ -4,6 +4,7 @@
   <div style="margin-top: 16px;">
     <a href="https://www.linkedin.com/in/swetasharmaa/" style="margin:0 12px; text-decoration:none"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://sweta113sharma.github.io/portfolio/" style="margin:0 12px; text-decoration:none"><img src="https://img.shields.io/badge/Portfolio-6E9176?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://medium.com/@sweta.dollysharma" style="margin:0 12px; text-decoration:none"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
     <a href="mailto:swetakumarii034@gmail.com" style="margin:0 12px; text-decoration:none"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   </div>
 </div>
@@ -18,7 +19,7 @@
 
 ## About Me
 
-I am a Full Stack Developer with a strong interest in AI, ML, and building digital products that solve real user problems. My work combines frontend usability, backend reliability, and practical AI integration to create thoughtful, scalable, and business-ready solutions.
+I am a Full Stack Developer with a strong interest in AI, ML, and building digital products that solve real user problems. My work combines frontend usability, backend reliability, and practical AI-powered experiences.
 
 I enjoy building products that balance design, performance, and functionality while staying focused on user needs and measurable outcomes.
 
@@ -88,7 +89,7 @@ I enjoy building products that balance design, performance, and functionality wh
 
 ### GitHub Stats
 
-![Sweta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sweta113Sharma&theme=radical&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9&rank_icon=github)
+![Sweta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sweta113Sharma&theme=radical&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9)
 
 ### Most Used Languages
 
@@ -108,6 +109,7 @@ I’m open to opportunities, collaboration, and meaningful product work.
 
 - LinkedIn: https://www.linkedin.com/in/swetasharmaa/
 - Portfolio: https://sweta113sharma.github.io/portfolio/
+- Medium: https://medium.com/@sweta.dollysharma
 - Email: swetakumarii034@gmail.com
 
 <div align="center" style="margin-top: 20px;">
